@@ -1,0 +1,29 @@
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.exe.config
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.exe
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.pdb
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Form1.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.exe
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.pdb
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Ajouter.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Afficher.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Projet_Ajout.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Afficher_Projet.resources
+C:\Users\OUSSAMA\Desktop\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Supprimer.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.exe.config
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\bin\Debug\Gère le système d’information d’une société.pdb
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.csprojAssemblyReference.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Afficher.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Afficher_Projet.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Ajouter.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Form1.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Projet_Ajout.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Properties.Resources.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère_le_système_d_information_d_une_société.Supprimer.resources
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.csproj.GenerateResource.cache
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.exe
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.pdb
+C:\Users\OUSSAMA\Desktop\C sharp\Sadik c#\Windows Form\Gère le système d’information d’une société\obj\Debug\Gère le système d’information d’une société.csproj.CoreCompileInputs.cache
